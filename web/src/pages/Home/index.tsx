@@ -11,7 +11,7 @@ const Home = () => {
         <div id="page-home">
             <div className="content">
                 <header>
-                    <img src={logo} id="logo"/>
+                    <img src={logo} id="logo" alt="logo"/>
                     <h1>Greener</h1>
                 </header>
 
